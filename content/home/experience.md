@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "School of Information and Computer Sciences, UC Irvine"
   company_url = "http://tutors.ics.uci.edu/index.php/becoming-a-tutor"
   location = "Irvine, California"
-  date_start = "May 2016"
-  date_end = "Jun 2018"
+  date_start = "May 2019"
+  date_end = "Jul 2019"
   description = """
   Throughout the four years of my undergraduate career, I worked as a Lab Tutor under the School of Computer Science. I Taught 3 different levels of Python programming courses in 5 separate courses with 40+ students per course, which renders a total of 200+ students taught.
 
