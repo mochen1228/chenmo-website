@@ -34,7 +34,7 @@ education:
     institution: University of California, Irvine
     year: 2015 - 2019
 
-
+image:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I am an graduate student at Carnegie Mellon University studying Computer Networks and Mobility. I went to UC Irvine for my undergrad, where I obtained my bachelor's degree in Computer Science. In the past few years, I have studied and practiced various domains in Computer Science, such as Mobile Development, Web Development, Database Management, Big Data and Machine Learining. 
+I am an graduate student at Carnegie Mellon University studying Computer Networks and Mobility. I went to UC Irvine for my undergrad, where I obtained my bachelor's degree in Computer Science. In the past few years, I have studied and practiced various domains in Computer Science, such as Mobile Development, Web Development, Database Management, Big Data, Computer Vision and Machine Learining. 
 
-In Summer 2020, I will be joining Hulu as a Software Engineering Intern to work on DevOps on the networks team.
+In Summer 2020, I will be joining Hulu as a Software Engineering Intern, working on DevOps in the Networks team.
