@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I am an graduate student at Carnegie Mellon University studying Computer Networks and Mobility. I went to UC Irvine for my undergrad, where I obtained my bachelor's degree in Computer Science. In the past few years, I have studied and practiced various domains in Computer Science, such as Mobile Development, Web Development, Database Management, Big Data, Computer Vision and Machine Learining. 
+I am a graduate student at Carnegie Mellon University studying Computer Networks and Mobility. I went to UC Irvine for undergrad, where I obtained my Bachelor's degree in Computer Science. In the past few years, I have studied and practiced various areas in Computer Science and Software Engineering, such as Mobile Development, Web Development, Database Management, Big Data, Computer Vision and Machine Learining. 
 
 In Summer 2020, I will be joining Hulu as a Software Engineering Intern, working on DevOps in the Networks team.

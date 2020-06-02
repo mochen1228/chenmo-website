@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Here are some of my key skills in programming"
 
 # Showcase personal skills or business features.
 # 
@@ -15,22 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = "Most of my undergradute course work was done in Python. I also tought three levels of introduction courses in Python as a lab tutor"
+
+[[feature]]
+  icon = "swift"
+  icon_pack = "fab"
+  name = "Swift"
+  description = "I have done several course projects in iOS development, where I used Swift as the main development language"  
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
+  description = "I built www.realquizhub.com using JavaScript in spring semester of 2020"
 
 # Uncomment to use emoji icons.
 # [[feature]]
