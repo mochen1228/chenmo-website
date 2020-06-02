@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Software Engeering Intern"
+  company = "Xiaomi Technology"
+  company_url = "https://www.mi.com/us"
+  location = "Beijing, China"
+  date_start = "May 2019"
+  date_end = "July 2019"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  I worked for the Big Data Team under Xiaomi Cloud Division as a Software Engineering Intern. During my 9 weeks at Xiaomi, I assited my team on processing and analyzing user activity data for 240+ million monthly active Xiaomi smartphone users, such as application usage data, user behavior data and advertisement exposure data.
+    * Utilized user profiles and activities to run Spark jobs that generate advertising targets for Xiaomi app store publishers
+    * Collaborated with the advertising and business department to fit advertisement deploying schedules
+    * Increased the advertisement view/click rates by up to 15% for several big-name applications
+  During my internship, I Used various Big Data technologies/tools such as Spark, Hadoop, SQL and Hive. My code was mainly written in Scala.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Lab Tutor"
+  company = "School of Information and Computer Sciences, UC Irvine"
+  company_url = "http://tutors.ics.uci.edu/index.php/becoming-a-tutor"
+  location = "Irvine, California"
+  date_start = "May 2016"
+  date_end = "Jun 2018"
+  description = """
+  Throughout the four years of my undergraduate career, I worked as a Lab Tutor under the School of Computer Science. I Taught 3 different levels of Python programming courses in 5 separate courses with 40+ students per course, which renders a total of 200+ students taught.
+
+  As a Lab Tutor, my main responsibilities were:
+  * Work alongside teaching assistants to teach students course materials and to help them understand lab assignments
+  * Design materials and teach students programming/debugging skills face to face
+
+  I Received approval ratings above 93% in student evaluations for each course, and approvals from my professors as well.
+  """
 
 +++
