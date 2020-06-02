@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-27"
   date_end = "2019-07-29"
   description = """
-  I worked for the Big Data Team under Xiaomi Cloud Division as a Software Engineering Intern. During my 9 weeks at Xiaomi, I assited my team on processing and analyzing user activity data for 240+ million monthly active Xiaomi smartphone users, such as application usage data, user behavior data and advertisement exposure data.
+  I worked for the Big Data Team under Xiaomi Cloud Division as a Software Engineering Intern. During my 9 weeks at Xiaomi, I assited my team on processing and analyzing user activity data for 240+ million monthly active Xiaomi smartphone users, such as application usage data, user behavior data and advertisement exposure data.</br>
 
   * Utilized user profiles and activities to run Spark jobs that generate advertising targets for Xiaomi app store publishers
   * Collaborated with the advertising and business department to fit advertisement deploying schedules
