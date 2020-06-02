@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Xiaomi Technology"
   company_url = "https://www.mi.com/us"
   location = "Beijing, China"
-  date_start = "May 2019"
-  date_end = "Jul 2019"
+  date_start = "May 27, 2019"
+  date_end = "July 30, 2019"
   description = """
   I worked for the Big Data Team under Xiaomi Cloud Division as a Software Engineering Intern. During my 9 weeks at Xiaomi, I assited my team on processing and analyzing user activity data for 240+ million monthly active Xiaomi smartphone users, such as application usage data, user behavior data and advertisement exposure data.
     * Utilized user profiles and activities to run Spark jobs that generate advertising targets for Xiaomi app store publishers
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "School of Information and Computer Sciences, UC Irvine"
   company_url = "http://tutors.ics.uci.edu/index.php/becoming-a-tutor"
   location = "Irvine, California"
-  date_start = "May 2019"
-  date_end = "Jul 2019"
+  date_start = "Apr 01 2016"
+  date_end = "Jun 15 2018"
   description = """
   Throughout the four years of my undergraduate career, I worked as a Lab Tutor under the School of Computer Science. I Taught 3 different levels of Python programming courses in 5 separate courses with 40+ students per course, which renders a total of 200+ students taught.
 
