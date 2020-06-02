@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.mi.com/us"
   location = "Beijing, China"
   date_start = "May 2019"
-  date_end = "July 2019"
+  date_end = "Jul 2019"
   description = """
   I worked for the Big Data Team under Xiaomi Cloud Division as a Software Engineering Intern. During my 9 weeks at Xiaomi, I assited my team on processing and analyzing user activity data for 240+ million monthly active Xiaomi smartphone users, such as application usage data, user behavior data and advertisement exposure data.
     * Utilized user profiles and activities to run Spark jobs that generate advertising targets for Xiaomi app store publishers
