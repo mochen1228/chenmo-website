@@ -1,15 +1,11 @@
 ---
 title: Quizhub
-summary: """
-  I worked for the Big Data Team under Xiaomi Cloud Division as a Software Engineering Intern. During my 9 weeks at Xiaomi, I assited my team on processing and analyzing user activity data for 240+ million monthly active Xiaomi smartphone users, such as application usage data, user behavior data and advertisement exposure data.
+summary: | 
+    Quizhub is a game-based learning web application inspired by Kahoot!. By enabling instructors to create fun and competitive real-time quizzes for students to participate, the application could help increase student engagement in classrooms. 
+    
+    Compared to Kahoot!, Quizhub™ does not need a big screen to broadcast questions, and it will be free and open source.
 
-  Some of my key contributions were:
-  * Utilized user profiles and activities to run Spark jobs that generate advertising targets for Xiaomi app store publishers
-  * Collaborated with the advertising and business department to fit advertisement deploying schedules
-  * Increased the advertisement view/click rates by up to 15% for several big-name applications
 
-  <br/>During my internship, I used various Big Data technologies/tools such as Spark, Hadoop, SQL and Hive. My code was mainly written in Scala.
-  """
 
 date: "2018-06-28T00:00:00Z"
 
