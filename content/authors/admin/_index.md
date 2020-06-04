@@ -37,7 +37,7 @@ education:
     year:
   - course: University of California, Irvine 
     institution: |
-      B.S. in Computer Science
+      B.S. in Computer Science\n
       Sep 2015 - Mar 2019
       Selected Coursework: iOS Development, Machine Learning, Data Mining, Applied Probability and Statistics, Databases
       Major GPA: 3.7
