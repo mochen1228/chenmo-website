@@ -30,16 +30,22 @@ education:
   - course: Carnegie Mellon University - Information Networking Institute
     institution: |
       M.S in Information Technology - Mobility
+
       Sep 2019 - May 2021
+
       Selected Coursework: Computer Systems, Networks, Security, Mobile Development, Web Development
+      
       Major GPA: 3.6
 
     year:
   - course: University of California, Irvine 
     institution: |
-      B.S. in Computer Science\n
+      B.S. in Computer Science
+      
       Sep 2015 - Mar 2019
+      
       Selected Coursework: iOS Development, Machine Learning, Data Mining, Applied Probability and Statistics, Databases
+      
       Major GPA: 3.7
 
     year:
