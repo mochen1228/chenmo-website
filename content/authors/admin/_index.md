@@ -32,9 +32,7 @@ education:
   courses:
   - course: Carnegie Mellon University - Information Networking Institute
     institution: |
-      M.S in Information Technology - Mobility
-      
-      Sep 2019 - May 2021
+      M.S in Information Technology - Mobility, Sep 2019 - May 2021
   - course: University of California, Irvine 
     institution: B.S. in Computer Science, Sep 2015 - Mar 2019
 
