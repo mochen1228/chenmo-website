@@ -11,12 +11,13 @@ superuser: true
 
 # Role/position
 role: |
-  Sofeware Engineering Intern
+  Sofeware Engineering Interna at Hulu
+
   Master's Student at CMU
 
 # Organizations/Affiliations
 organizations:
-- name: Hulu
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
