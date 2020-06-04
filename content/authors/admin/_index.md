@@ -29,10 +29,10 @@ education:
   courses:
   - course: Carnegie Mellon University - Information Networking Institute
     institution: M.S in Information Technology - Mobility 
-    year: 2019 - 2021
+    year:
   - course: University of California, Irvine 
     institution: B.S. in Computer Science
-    year: 2015 - 2019
+    year:
 
 image:
 # Social/Academic Networking
