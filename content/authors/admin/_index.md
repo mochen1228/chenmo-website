@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - course: M.S in Information Technology - Mobility
-    institution: Carnegie Mellon University - Information Networking Institute
+  - course: Carnegie Mellon University - Information Networking Institute
+    institution: M.S in Information Technology - Mobility 
     year: 2019 - 2021
-  - course: B.S. in Computer Science
-    institution: University of California, Irvine
+  - course: University of California, Irvine 
+    institution: B.S. in Computer Science
     year: 2015 - 2019
 
 image:
